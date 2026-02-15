@@ -27,11 +27,13 @@ Uppgiften fokuserar på objektorienterad programmering i C#.
 
 ✔ Utlåning  
 - Låna bok  
-- Returnera bok  
+- Returnera bok
+- Kontrollera försenade lån
 
 ✔ Statistik  
 - Totalt antal böcker  
-- Antal utlånade böcker  
+- Antal utlånade böcker
+- Mest aktiv låntagare
 
 # Enhetstester (xUnit)  
 Testprojektet innehåller 10 tester:
@@ -49,4 +51,4 @@ I Visual Studio:
 Via Visual Studio:
 - Öppna **Test Explorer**  
 - Klicka **Run All Tests**
-- 
+
